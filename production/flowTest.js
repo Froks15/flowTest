@@ -1,16 +1,8 @@
 
 
-// interface User {
-//     name: string;
-//     age: number;
-// }
-
 function printUser(user) {
-    console.log(user);
+    console.log(user.name);
 } //  strict
-
-// import type {User} from './userInterface';
-
 
 let user = {
     name: 'Vasya',
