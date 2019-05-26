@@ -8,6 +8,6 @@ function printUser(user: User) {
 
 let user = {
     name: 'Vasya',
-    age: '18'
+    age: '20'
 }
 printUser(user)
