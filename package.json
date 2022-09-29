@@ -13,8 +13,8 @@
     "save-dev": "^2.0.0"
   },
   "devDependencies": {
-    "@hapi/code": "^5.3.1",
-    "@hapi/lab": "^19.0.1",
+    "@hapi/code": "^9.0.1",
+    "@hapi/lab": "^25.0.1",
     "babel-cli": "^6.26.0",
     "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.98.1",
